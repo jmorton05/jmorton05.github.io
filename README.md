@@ -22,3 +22,7 @@ Based on the [Libretto Wordpress theme](https://wordpress.org/themes/libretto/).
 ## Preview
 
 ![Theme preview](http://i.imgur.com/2ZCmoKo.png)
+
+
+References:
+https://daringfireball.net/projects/markdown/syntax
